@@ -3,7 +3,7 @@ A todo app in c++, executable from command line (currently windows).
 
 This was the programming task under CoronaSafe Engineering Fellowship Program.
 
-# IMPORTANT STEP 
+## IMPORTANT STEP 
 
 1. Clone the repository on your local machine.
 2. Open Command line in Windows.
